@@ -1,0 +1,26 @@
+{
+  "name": "food-delivery-app",
+  "version": "1.0.0",
+  "description": "Food Delivery Application using react",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siddheshpandit/React-FoodDelivery-Clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siddheshpandit/React-FoodDelivery-Clone/issues"
+  },
+  "homepage": "https://github.com/siddheshpandit/React-FoodDelivery-Clone#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
